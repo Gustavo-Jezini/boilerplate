@@ -2,8 +2,6 @@ import Head from '../../node_modules/next/head'
 import Image from '../../node_modules/next/image'
 import styles from '../styles/Home.module.css'
 
-const bla = 'bla';
-
 export default function Home() {
   return (
     <div className={styles.container}>
