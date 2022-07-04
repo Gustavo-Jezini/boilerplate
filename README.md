@@ -1,3 +1,6 @@
+Projeto base. Serve de estrutura para outros projetos. Com Jest, StoryBook, Eslint e tsconfig ja configurado, basta apenas copiar o projeto e dar inicio a algum App
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
